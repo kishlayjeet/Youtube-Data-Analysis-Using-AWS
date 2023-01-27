@@ -1,3 +1,5 @@
+## This code is copied from Darshil
+
 import sys
 from awsglue.transforms import *
 from awsglue.utils import getResolvedOptions
